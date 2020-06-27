@@ -61,6 +61,7 @@
         - shuffle
 
 - **6. Concatenation**
+    -
     - Distributed datasets
     - Join datasets
         - Merge
