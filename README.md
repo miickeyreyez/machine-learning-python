@@ -66,3 +66,6 @@
     - Join datasets
         - Merge
         - Joins
+
+- **7. Basic statistics concepts**
+    -
